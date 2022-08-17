@@ -2,7 +2,7 @@
 Levels agility from 30-40. See README for list of bugs to work on
 
 
-<u>2.0 Changes</u>
+<strong>2.0 Changes</strong>
 
  Should loot marks of grace more reliably (method for checking coords of mark -- should prevent trying to loot marks on previous obstacle)
  
